@@ -1,0 +1,46 @@
+Privacy Policy for BacHelper
+
+BacHelper ("the App") is developed as an educational application designed to help students prepare for their exams through lessons, study sessions, and interactive videos.
+
+1. Information We Collect
+
+BacHelper does not collect, store, or share any personal data from users.
+The only data saved on your device are local preferences such as:
+
+Study sessions
+
+Completed lessons
+
+Subject progress
+These are stored locally using SharedPreferences and are not shared with anyone.
+
+2. Permissions Used
+
+The app may request the following permissions:
+
+Notification permission: to remind you of study sessions.
+
+Internet access: to play YouTube educational videos.
+No background tracking or sensitive data collection occurs.
+
+3. Third-Party Services
+
+The app uses:
+
+YouTube API to display educational videos.
+YouTube may collect some data as described in their Privacy Policy
+.
+
+4. Data Security
+
+All your progress and data remain stored locally on your device.
+We do not collect analytics or transmit your information to any external servers.
+
+5. Changes to This Policy
+
+This policy may be updated from time to time. Updates will be available within the app or on the app store listing.
+
+6. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+📧aymen.attia.work@gmail.com
