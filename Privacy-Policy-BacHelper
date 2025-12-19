@@ -1,46 +1,73 @@
 Privacy Policy for BacHelper
 
-BacHelper ("the App") is developed as an educational application designed to help students prepare for their exams through lessons, study sessions, and interactive videos.
+BacHelper ("the App") is an educational application designed to help students prepare for exams using study sessions, Pomodoro timers, reminders, lessons, and educational videos.
 
 1. Information We Collect
 
-BacHelper does not collect, store, or share any personal data from users.
-The only data saved on your device are local preferences such as:
+BacHelper does not collect or request personal information such as emails, or phone numbers.
 
-Study sessions
+The app stores the following data locally on the user's device only:
 
-Completed lessons
+name of user and his study division 
 
-Subject progress
-These are stored locally using SharedPreferences and are not shared with anyone.
+Study sessions and schedules
 
-2. Permissions Used
+Pomodoro session progress
 
-The app may request the following permissions:
+Completed lessons and subject progress
 
-Notification permission: to remind you of study sessions.
+This data is stored using local device storage (SharedPreferences) and is never transmitted to BacHelper servers.
 
-Internet access: to play YouTube educational videos.
-No background tracking or sensitive data collection occurs.
+2. Permissions Used and Their Purpose
 
-3. Third-Party Services
+BacHelper requests the following permissions strictly for core app functionality:
 
-The app uses:
+INTERNET
+Used to load educational YouTube videos and display in-app advertisements.
 
-YouTube API to display educational videos.
-YouTube may collect some data as described in their Privacy Policy
-.
+POST_NOTIFICATIONS
+Used to send study reminders and scheduled learning notifications.
+
+VIBRATE
+Used to enhance notification alerts.
+
+WAKE_LOCK
+Used to keep the screen active during Pomodoro study sessions and prevent interruption while studying.
+
+SCHEDULE_EXACT_ALARM / USE_EXACT_ALARM
+Used to deliver precise and time-sensitive study reminders, ensuring notifications occur at the exact scheduled time chosen by the user.
+
+These permissions are never used for tracking, profiling, or background surveillance.
+
+3. Advertising & Third-Party Services
+
+BacHelper displays advertisements using Google AdMob.
+
+Google AdMob may collect limited device information (such as Advertising ID) in accordance with Google’s Privacy Policy.
+BacHelper does not access or store this data.
+
+The app also uses:
+
+YouTube Player API to display educational content.
+
+YouTube may collect data according to its own Privacy Policy.
 
 4. Data Security
 
-All your progress and data remain stored locally on your device.
-We do not collect analytics or transmit your information to any external servers.
+All study data remains on the user’s device.
+BacHelper does not operate its own servers and does not sell or share user data.
 
-5. Changes to This Policy
+5. Children’s Privacy
 
-This policy may be updated from time to time. Updates will be available within the app or on the app store listing.
+BacHelper is intended for students and does not knowingly collect personal data from children.
 
-6. Contact Us
+6. Changes to This Policy
 
-If you have any questions about this Privacy Policy, please contact us at:
-📧aymen.attia.work@gmail.com
+This Privacy Policy may be updated when necessary.
+Any changes will be reflected on the app store listing.
+
+7. Contact Us
+
+For any questions regarding this Privacy Policy, contact:
+
+📧 aymen.attia.work@gmail.com
